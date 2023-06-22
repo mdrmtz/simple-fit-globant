@@ -116,10 +116,6 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 # Eclipse m2e generated files
-# Eclipse Core
-.project
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
 
 # Node
 # Logs
@@ -226,7 +222,6 @@ dist
 
 # vuepress v2.x temp and cache directory
 .temp
-.cache
 
 # Docusaurus cache and generated files
 .docusaurus
@@ -267,7 +262,6 @@ xcuserdata/
 *.xccheckout
 
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
-build/
 DerivedData/
 *.moved-aside
 *.pbxuser
